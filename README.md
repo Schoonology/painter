@@ -22,6 +22,7 @@ I could not for the life of me find a solid module for generating simple images 
         color: 'black',
         width: 5
       },
+      fill: 'none',
       points: [
         { x: 200, y: 100 },
         { x: 300, y: 100 },
